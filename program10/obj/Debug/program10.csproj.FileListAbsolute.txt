@@ -1,0 +1,7 @@
+D:\khushi7042\BCA4A\UNIT3\program10\bin\Debug\program10.exe.config
+D:\khushi7042\BCA4A\UNIT3\program10\bin\Debug\program10.exe
+D:\khushi7042\BCA4A\UNIT3\program10\bin\Debug\program10.pdb
+D:\khushi7042\BCA4A\UNIT3\program10\obj\Debug\program10.csproj.AssemblyReference.cache
+D:\khushi7042\BCA4A\UNIT3\program10\obj\Debug\program10.csproj.CoreCompileInputs.cache
+D:\khushi7042\BCA4A\UNIT3\program10\obj\Debug\program10.exe
+D:\khushi7042\BCA4A\UNIT3\program10\obj\Debug\program10.pdb
