@@ -1,0 +1,7 @@
+D:\Parth_7071_c#\UNIT3\Program12\obj\Debug\Program12.csproj.AssemblyReference.cache
+D:\Parth_7071_c#\UNIT3\Program12\obj\Debug\Program12.csproj.CoreCompileInputs.cache
+D:\Parth_7071_c#\UNIT3\Program12\bin\Debug\Program12.exe.config
+D:\Parth_7071_c#\UNIT3\Program12\bin\Debug\Program12.exe
+D:\Parth_7071_c#\UNIT3\Program12\bin\Debug\Program12.pdb
+D:\Parth_7071_c#\UNIT3\Program12\obj\Debug\Program12.exe
+D:\Parth_7071_c#\UNIT3\Program12\obj\Debug\Program12.pdb

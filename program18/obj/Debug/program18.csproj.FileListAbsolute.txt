@@ -1,0 +1,7 @@
+D:\Parth_7071_c#\UNIT3\program18\bin\Debug\program18.exe.config
+D:\Parth_7071_c#\UNIT3\program18\bin\Debug\program18.exe
+D:\Parth_7071_c#\UNIT3\program18\bin\Debug\program18.pdb
+D:\Parth_7071_c#\UNIT3\program18\obj\Debug\program18.csproj.AssemblyReference.cache
+D:\Parth_7071_c#\UNIT3\program18\obj\Debug\program18.csproj.CoreCompileInputs.cache
+D:\Parth_7071_c#\UNIT3\program18\obj\Debug\program18.exe
+D:\Parth_7071_c#\UNIT3\program18\obj\Debug\program18.pdb
