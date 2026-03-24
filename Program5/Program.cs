@@ -10,10 +10,13 @@ namespace Program5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter radius of the circle");
-            double r = float.Parse(Console.ReadLine());
-            double a = 3.14 * r * r;
-            Console.WriteLine("Area of the circle:" +a);
+            constructor c1 = new constructor();
+            c1.calculate();
+            c1.Display();
+
+            constructor c2 = new constructor(30, 40);
+            c2.calculate();
+            c2.Display();
         }
     }
 }

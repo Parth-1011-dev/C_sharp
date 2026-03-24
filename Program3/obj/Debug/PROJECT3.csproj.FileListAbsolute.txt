@@ -1,0 +1,7 @@
+D:\Parth_7071_c#\Unit4\PROJECT3\bin\Debug\PROJECT3.exe.config
+D:\Parth_7071_c#\Unit4\PROJECT3\bin\Debug\PROJECT3.exe
+D:\Parth_7071_c#\Unit4\PROJECT3\bin\Debug\PROJECT3.pdb
+D:\Parth_7071_c#\Unit4\PROJECT3\obj\Debug\PROJECT3.csproj.AssemblyReference.cache
+D:\Parth_7071_c#\Unit4\PROJECT3\obj\Debug\PROJECT3.csproj.CoreCompileInputs.cache
+D:\Parth_7071_c#\Unit4\PROJECT3\obj\Debug\PROJECT3.exe
+D:\Parth_7071_c#\Unit4\PROJECT3\obj\Debug\PROJECT3.pdb

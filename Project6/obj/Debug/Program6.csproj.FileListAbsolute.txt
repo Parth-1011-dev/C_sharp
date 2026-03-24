@@ -1,0 +1,7 @@
+D:\Parth_7071_c#\Unit4\Project6\bin\Debug\Project6.exe.config
+D:\Parth_7071_c#\Unit4\Project6\bin\Debug\Project6.exe
+D:\Parth_7071_c#\Unit4\Project6\bin\Debug\Project6.pdb
+D:\Parth_7071_c#\Unit4\Project6\obj\Debug\Program6.csproj.AssemblyReference.cache
+D:\Parth_7071_c#\Unit4\Project6\obj\Debug\Program6.csproj.CoreCompileInputs.cache
+D:\Parth_7071_c#\Unit4\Project6\obj\Debug\Project6.exe
+D:\Parth_7071_c#\Unit4\Project6\obj\Debug\Project6.pdb

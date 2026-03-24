@@ -10,7 +10,10 @@ namespace Program1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            rectangle r = new rectangle();
+            r.getdata();
+            r.calculate();
+            r.display();
         }
     }
 }
