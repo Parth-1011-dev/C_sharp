@@ -10,23 +10,27 @@ namespace Program13
     {
         static void Main(string[] args)
         {
-            string name;
-            Console.WriteLine("Enter the name: ");
-            name = Console.ReadLine();
-            string revname = "";
-            int i;
-            for(i = name.Length-1; i >=0; i--)
-            {
-                revname = revname + name[i];
-            }
-            if (name == revname)
-            {
-                Console.WriteLine("NAME IS PALINDROME");
-            }
-            else
-            {
-                Console.WriteLine("NAME IS NOT PALINDROME");    
-            }
+            int[] arr = new int[5];
+ int min, i;
+
+ Console.WriteLine("Enter 5 numbers:");
+
+ for (i = 0; i < 5; i++)
+ {
+     arr[i] = int.Parse(Console.ReadLine());
+ }
+
+ min = arr[0];
+
+ for (i = 1; i < 5; i++)
+ {
+     if (arr[i] < min)
+     {
+         min = arr[i];
+     }
+ }
+
+ Console.WriteLine("Minimum number is: " + min);
         }
     }
 }
